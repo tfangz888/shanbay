@@ -1,0 +1,13 @@
+current
+account
+cash
+cheque
+debtor
+creditor
+obligation
+complication
+debit
+specimen
+forgery
+adopt
+facilitate
