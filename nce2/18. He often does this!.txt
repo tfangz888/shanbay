@@ -1,0 +1,8 @@
+pub
+landlord
+bill
+pay the bill
+give in
+give away
+give up
+give back

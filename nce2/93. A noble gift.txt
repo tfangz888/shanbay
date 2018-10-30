@@ -1,0 +1,12 @@
+noble
+monument
+statue
+liberty
+sculptor
+actual
+copper
+support
+framework
+transport
+site
+pedestal
