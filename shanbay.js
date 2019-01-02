@@ -6,7 +6,7 @@ var url = process.argv.splice(2)[0]; //获取控制台参数
 // console.log(url);
 
 (async () => {
-  const browser = await puppeteer.launch({headless: false, args: [ '--proxy-server=42.99.164.34:10015' ] });
+  const browser = await puppeteer.launch({headless: false, args: [ '--proxy-server=IP:PORT' ] });
   const page = await browser.newPage();
 
   for (var i=1;i<=100;i++) //pages    
