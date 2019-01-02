@@ -15,7 +15,7 @@ const urls = [
 'https://www.shanbay.com/wordlist/182470/515107/?page='];
 
 (async () => {
-  const browser = await puppeteer.launch({headless: false, args: [ '--proxy-server=42.99.164.34:10015' ] });
+  const browser = await puppeteer.launch({headless: false, args: [ '--proxy-server=IP:PORT' ] });
   const page = await browser.newPage();
   for (var index in urls)
   {
